@@ -1,0 +1,8 @@
+Package: com.0xkuj.storeswitcher2iconfix
+Name: StoreSwitcher2IconFix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fix Store Switcher 2 Icon not showing
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
